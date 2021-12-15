@@ -17,13 +17,13 @@ Abstract: In the finance world stock trading is one of the most important activi
 ![image](https://user-images.githubusercontent.com/70426630/146182458-779373dd-5ccb-4621-a3e2-f5e38c45f1c2.png)
 
 
-accuracy of the stock prediction for tata global bevarages
+# accuracy of the stock prediction for tata global bevarages
 
-before predicting
+# before predicting
 
 ![image](https://user-images.githubusercontent.com/70426630/146182592-25c501e2-1b62-4a6d-8e35-5e3da1f261c6.png)
 
-after prediction
+# after prediction
 
 
 ![image](https://user-images.githubusercontent.com/70426630/146182967-437395f5-e20a-4e9c-97ef-1f6090363911.png)
